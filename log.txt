@@ -1,0 +1,2 @@
+Checking 9733056 instances on 10 vertices.
+New optimal value obtained: 15.0000000000.

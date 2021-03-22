@@ -1,0 +1,33 @@
+Checking 9733056 instances on 10 vertices.
+New optimal value obtained: 15.0000000000.
+New optimal value obtained: 14.5000000000.
+New optimal value obtained: 13.5000000000.
+New optimal value obtained: 13.0000000000.
+New optimal value obtained: 12.0000000000.
+min=12.000000. Non optimality in 21368 instances. Minimality in 16 instances.
+16 graphs passed to next level.
+Checking one vertex extensions of 16 instances on 11 vertices.
+New optimal value obtained: 17.0000000000.
+New optimal value obtained: 16.0000000000.
+New optimal value obtained: 15.0000000000.
+min=15.000000. Non optimality in 16384 instances. Minimality in 256 instances.
+256 graphs passed to next level.
+Checking one vertex extensions of 256 instances on 12 vertices.
+New optimal value obtained: 20.5000000000.
+New optimal value obtained: 20.0000000000.
+New optimal value obtained: 19.0000000000.
+New optimal value obtained: 18.0000000000.
+min=18.000000. Non optimality in 524288 instances. Minimality in 2048 instances.
+2048 graphs passed to next level.
+Checking one vertex extensions of 2048 instances on 13 vertices.
+New optimal value obtained: 24.0000000000.
+New optimal value obtained: 23.0000000000.
+New optimal value obtained: 22.0000000000.
+min=22.000000. Non optimality in 8388608 instances. Minimality in 98304 instances.
+98304 graphs passed to next level.
+Checking one vertex extensions of 98304 instances on 14 vertices.
+New optimal value obtained: 28.5000000000.
+New optimal value obtained: 28.0000000000.
+New optimal value obtained: 27.0000000000.
+New optimal value obtained: 26.0000000000.
+min=26.000000.
